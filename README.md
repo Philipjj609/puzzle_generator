@@ -52,5 +52,5 @@ Logic & Grid: Sudoku, Hitori, Minesweeper, Nonograms, Light Up, Star Battle, Nur
 Word & Math: Lexa (Wordle), Nerdle, Quordle, Waffle, Crosswordle, Strands, Crossword, Betweenle, Contexto. 
 📄 License 
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
